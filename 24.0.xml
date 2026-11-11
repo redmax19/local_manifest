@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/motorola/guamp" remote="github" name="LineageOS/android_device_motorola_guamp" revision="lineage-24.0" />
+  <project path="device/motorola/sm6225-common" remote="github" name="LineageOS/android_device_motorola_sm6225-common" revision="lineage-24.0" />
+  <project path="hardware/motorola" remote="github" name="LineageOS/android_hardware_motorola" revision="lineage-24.0" />
+  <project path="kernel/motorola/sm6225" remote="github" name="LineageOS/android_kernel_motorola_sm6225" revision="lineage-24.0" />
+  <project path="system/qcom" remote="github" name="LineageOS/android_system_qcom" revision="lineage-24.0" />
+  <project path="vendor/motorola/guamp" remote="github" name="TheMuppets/proprietary_vendor_motorola_guamp" revision="lineage-24.0" />
+  <project path="vendor/motorola/sm6225-common" remote="github" name="TheMuppets/proprietary_vendor_motorola_sm6225-common" revision="lineage-24.0" />
+</manifest>
